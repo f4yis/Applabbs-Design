@@ -1,0 +1,9 @@
+@font-face {
+font-family: big-jhon;
+src: url("big.otf") format("opentype");
+}
+
+@font-face {
+font-family: slim-jeo;
+src: url("slim.otf") format("opentype");
+}
