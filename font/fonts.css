@@ -1,9 +1,18 @@
 @font-face {
-font-family: big-jhon;
-src: url("big.otf") format("opentype");
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Ubuntu Light'), local('Ubuntu-Light'), url(1.woff) format('woff');
 }
-
 @font-face {
-font-family: slim-jeo;
-src: url("slim.otf") format("opentype");
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu'), url(2.woof) format('woff');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Ubuntu Medium'), local('Ubuntu-Medium'), url(3.woff) format('woff');
 }
